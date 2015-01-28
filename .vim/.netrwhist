@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/krorvik/code/cirque/modules/site/manifests/role/puppet/master'
+let g:netrw_dirhist_2='/home/krorvik/code/cirque/modules/site/manifests/resource/puppet/passenger'
+let g:netrw_dirhist_3='/home/krorvik/code/cirque/modules/site/manifests/role/puppet/master'
+let g:netrw_dirhist_4='/home/krorvik/code/cirque/modules/site/manifests'
+let g:netrw_dirhist_5='/home/krorvik/code/cirque/modules/site/manifests/resource/puppet'
+let g:netrw_dirhist_6='/home/krorvik/.ssh'
+let g:netrw_dirhist_7='/home/krorvik/.config/awesome'
+let g:netrw_dirhist_8='/home/krorvik/code/puppet/modules/site_ssb/manifests/metarole/appnode'
+let g:netrw_dirhist_9='/home/krorvik/code/pybas/fs/connection'
